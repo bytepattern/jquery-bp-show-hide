@@ -19,6 +19,6 @@ Place the code any where into footer
 });
 </code>
 Add span with the class bp-showhide:
-<code><span class="bp-showhide"> hide text here </span></code>
+<span class="bp-showhide"> hide text here </span>
  
 
