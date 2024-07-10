@@ -1,0 +1,10 @@
+ $(document).ready(function() {
+  $(".bp-showhide").showHideText({
+    maxLength: 30,
+    moreText: 'More...',
+    lessText: 'Hide'
+  });
+});
+
+Please add css for design
+place the code any where into footer and add span with the class bp-showhide for show/ hide the content on click
