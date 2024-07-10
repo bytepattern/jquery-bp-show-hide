@@ -20,7 +20,7 @@ Place the code any where into footer
 </code>
 Add span with the class bp-showhide:
 
- '<span class="bp-showhide"> hide text here </span>'
+&lt;span class="bp-showhide"&gt; hide text here &lt;/span&gt;
 
 
  
