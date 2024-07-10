@@ -19,6 +19,11 @@ Place the code any where into footer
 });
 </code>
 Add span with the class bp-showhide:
-<span class="bp-showhide"> hide text here </span>
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+  <span class="bp-showhide"> hide text here </span>
+</foreignObject>
+</svg>
+
  
 
